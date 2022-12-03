@@ -1,6 +1,7 @@
 # Key Features
 - Switchable Theme with Pleasing UI and Transition
 - Used useLocalStorage() Hook to Persist Current Theme between Refreshes
+- Implemented Stytch to for Authentication and Authorization
 
 # Getting Started with Create React App
 
